@@ -1,1 +1,1 @@
-Website created with AppGameKit (https://www.appgamekit.com/)
+Website created with AppGameKit Tier 2 - C++ (https://www.appgamekit.com/)
